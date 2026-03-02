@@ -1,3 +1,3 @@
 # PERT диаграмма
 
-![PERT диаграмма](img/graph_PERT.jpg)
+![PERT диаграмма](img/PERT.png)
